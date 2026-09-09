@@ -1,2 +1,4 @@
 # 100DaysOfDevOps-Challenge-KodeKloud
-Documenting my journey and lab solutions for the KodeKloud 100 Days of DevOps Challenge.
+KodeKloud 100 Days of DevOps Challenge laboratuvar çözümleri ve çalışma notları.
+
+* [day-001](https://github.com/enesaks/100DaysOfDevOps-Challenge-KodeKloud/edit/main/day-001/day-001.md)
